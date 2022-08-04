@@ -41,13 +41,13 @@ Completing all of these test suites is not necessary, but you should be working 
 - [ ] 🧶 [Crafting](./crafting)
 - [ ] 🏃🏻‍♀️ [Road Race](./roadrace)
 - [ ] ⛳️ [Golf Course](./golf-course)
-- [ ] 🎃 [Trick or Treat](./trick-or-treat)
+- [X] 🎃 [Trick or Treat](./trick-or-treat)
 - [ ] 🛹 [Skate Park](./skate-park)
 - [ ] 🍫 [Vending Machine](./vending-machine)
 
 ### Other Greats 
-- [ ] ⛷ [Ski Lift](./ski-lift)
-- [ ] ⛄️ [Snowman](./do-you-wanna-build-a-snowman)
+- [X] ⛷ [Ski Lift](./ski-lift)
+- [X] ⛄️ [Snowman](./do-you-wanna-build-a-snowman)
 - [ ] 🚀 [Spaceport](./spaceport)
 - [ ] 🍔 [Lunch Box](./lunchbox)
 - [ ] 🏞 [Oregon Trail](./oregon-trail)
